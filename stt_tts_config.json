@@ -1,0 +1,6 @@
+{
+    "whisper_model": "base",
+    "piper_tts_path": "D:\\piper_tts",
+    "whisper_stt_path": "D:\\whisper_stt_project",
+    "ffmpeg_path": "D:\\whisper_stt_project\\ffmpeg-7.1.1-essentials_build\\bin"
+}
